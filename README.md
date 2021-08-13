@@ -26,4 +26,5 @@ Use `vagrant ssh node-X` to access node-X.
 ## References
 
 [Spread Toolkit](http://www.spread.org/)
+
 [cotyq/vsoa-spread](https://app.vagrantup.com/cotyq/boxes/vsoa-spread)
