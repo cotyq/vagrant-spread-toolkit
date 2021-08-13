@@ -1,6 +1,6 @@
 # Spread Toolkit Vagrant
 
-This repo provides a Vagrantfile to create a virtual machine cluster using Spread Toolkit.
+This repo provides a Vagrantfile example to create a virtual machine cluster to use Spread Toolkit.
 
 ## Requirements
 
